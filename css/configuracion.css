@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 10px;
+    font-family: 'monospace';
+}
+
+/* PALETA DE COLORES */
+
+:root
+{
+    --azuloscuro: #212640;
+    --azulnegro: #222026;
+    --azulado: #56548C;
+    --azulmarino: #202540;
+    --grisaseo: #858AA6;
+}
